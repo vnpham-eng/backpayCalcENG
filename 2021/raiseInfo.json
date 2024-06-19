@@ -1,6 +1,6 @@
 {
 	"IT" : {
-		"2021-2025" : {
+		"2022-2025" : {
 			"salaries" : {
 				"annual" : [
 					[56709, 61585, 66461],
@@ -38,9 +38,9 @@
 				"cpi" : 137.4
 			},
 			"periods" : [
-				{"startDate" : "2022-10-01", "increase":4.794, "compound" : 4.794, "reason":"Contractual Increase", "multiplier" : 1, "cpi":144.0},
+				{"startDate" : "2022-10-01", "increase":4.794, "compound" : 4.79375, "reason":"Contractual Increase", "multiplier" : 1, "cpi":144.0},
 				{"startDate" : "2023-04-01", "increase":0.00, "compound" : 0.00, "reason":"Fiscal New Year", "multiplier" : 1, "cpi": 149.8},
-				{"startDate" : "2023-10-01", "increase":3.515, "compound" : 8.477, "reason":"Contractual Increase", "multiplier" : 1, "cpi": 153.1}, 
+				{"startDate" : "2023-10-01", "increase":3.515, "compound" : 8.4772503125, "reason":"Contractual Increase", "multiplier" : 1, "cpi": 153.1}, 
 				{"startDate" : "2024-04-01", "increase":0.00, "compound" : 0.00, "reason":"Fiscal New Year", "multiplier" : 1, "cpi":156.4}
 			],
 			"TABegin" : "2022-10-01",
